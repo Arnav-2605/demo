@@ -1,0 +1,10 @@
+.nav{
+    background-color: bisque;
+    padding: 12px;
+    display:flex; 
+    gap: 30px;
+}
+
+div{
+    background: linear-gradient(to right, rgb(0, 208, 255), rgb(255, 192, 246));
+}
